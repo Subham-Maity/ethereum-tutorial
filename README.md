@@ -21,6 +21,10 @@ Actually, I was working on this project then I did research and made many projec
 
 
 [**5. Crypto Currency Treading Website and Understanding**](#5-crypto-currency-treading-website-and-understanding)
+     
+ 
+[**Basic QuiZ**](#basic)
+
 
 # Basic 
 
@@ -73,6 +77,29 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 <p align="center">
         <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/6.png?raw=true"/>
         </p>
+
+## Basic QuiZ (**Answer below**)
+1.What is Blockchain ?
+- [ ] 1. Distributed mutable ledger
+- [ ] 2. Centralized Immutable Ledger
+- [ ] 3. Distributed immutable ledger
+
+2. What is Ethereum ?
+- [ ] 1. Ethereum is a decentralized, open-source blockchain with smart contract functionality.
+- [ ] 2. Ethereum is a decentralized, private blockchain with smart contract functionality.
+- [ ] 3. Ethereum is a centralized, open-source blockchain with smart contract functionality.
+- [ ] 4. Ethereum is a decentralized, open-source blockchain with no smart contract functionality.
+
+**Answer**
+```
+1.Distributed immutable ledger 2.Ethereum is a decentralized, open-source blockchain with smart contract functionality.
+```
+
+
+
+
+
+ 
 
 
 
