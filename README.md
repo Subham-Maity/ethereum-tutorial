@@ -23,7 +23,7 @@ Actually, I was working on this project then I did research and made many projec
 [**5. Crypto Currency Treading Website and Understanding**](#5-crypto-currency-treading-website-and-understanding)
      
  
-[**Basic QuiZ**](#basic)
+[**Basic QuiZ**](#basic-quiz-answer-below)
 
 
 # Basic 
