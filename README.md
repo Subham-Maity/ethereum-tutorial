@@ -55,4 +55,6 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 ## 5. Crypto Currency Treading Website and Understanding
 
 
-# [This Is The Websites](https://coinmarketcap.com/) 
+## [This Is The Websites](https://coinmarketcap.com/) 
+### We are gonna filter this out according to their token and coin lets see 
+
