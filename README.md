@@ -17,6 +17,8 @@ Actually, I was working on this project then I did research and made many projec
 
 [**3. Bitcoin Vs Ethereum ?**](#3-bitcoin-vs-ethereum-)
 
+[**4. Technology vs Protocol/Coin vs Token**](#4-technology-vs-protocolcoin-vs-token)
+
 
 # Basic 
 
@@ -30,7 +32,7 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 ```
 ## 3. Bitcoin Vs Ethereum ? 
 
-### We use bitcoin as a cryptocurrency nothing more than that but when we come to Ethereum it's a very powerful even programs can run top on the blockchain.
+#### We use bitcoin as a cryptocurrency nothing more than that but when we come to Ethereum it's a very powerful even programs can run top on the blockchain.
 
 <p align="center">
         <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/1.png?raw=true"/>
@@ -38,6 +40,12 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 
 ## 4. Technology vs Protocol/Coin vs Token 
 
-### 1. This technology is nothing but this is blockchain .(Distributed immutable Ledger )
+#### 1. This technology is nothing but this is blockchain (Distributed immutable Ledger ).
 
-### 2. 
+#### 2. These protocols are nothing but this Ethereum Bitcoin Wave Neo.These are the nothing but these are the rule. Ethereum Bitcoin Wave Neo everything has a different set of rules. 
+
+#### 3. Token are used in ICO(Initial Coin Offering).Coins directly represent a proposed medium of exchange. On the other hand, tokens represent an asset.
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/1.png?raw=true"/>
+        </p>
