@@ -22,7 +22,7 @@ Actually, I was working on this project then I did research and made many projec
 ```text
 Vitalik Buterin
 ```
-## 2. Why did Vitalik created Ethereum? ?
+## 2. Why did Vitalik created Ethereum? 
 ```text
 He wanted to create a new and improved version of Bitcoin that allowed for more scalability and applications with an ambitious vision to radically re-architect the web
 ```
