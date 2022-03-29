@@ -26,3 +26,6 @@ Vitalik Buterin
 ```text
 He wanted to create a new and improved version of Bitcoin that allowed for more scalability and applications with an ambitious vision to radically re-architect the web
 ```
+## 3. Bitcoin Vs Ethereum ? 
+
+### We use bitcoin as a cryptocurrency nothing more than that but when we come to Ethereum it's a very powerful program that runs top on a blockchain.
