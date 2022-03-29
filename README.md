@@ -15,6 +15,8 @@ Actually, I was working on this project then I did research and made many projec
 
 [**2. Why did Vitalik created Ethereum?**](#2-why-did-vitalik-created-ethereum-)
 
+[**3. Bitcoin Vs Ethereum ?**](#3-bitcoin-vs-ethereum-)
+
 
 # Basic 
 
@@ -29,3 +31,13 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 ## 3. Bitcoin Vs Ethereum ? 
 
 ### We use bitcoin as a cryptocurrency nothing more than that but when we come to Ethereum it's a very powerful program that runs top on a blockchain.
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/1.png?raw=true"/>
+        </p>
+
+## 4. Technology vs Protocol/Coin vs Token 
+
+### 1. This technology is nothing but this is blockchain .(Distributed immutable Ledger )
+
+### 2. 
