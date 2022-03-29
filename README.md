@@ -30,7 +30,7 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 ```
 ## 3. Bitcoin Vs Ethereum ? 
 
-### We use bitcoin as a cryptocurrency nothing more than that but when we come to Ethereum it's a very powerful program that runs top on a blockchain.
+### We use bitcoin as a cryptocurrency nothing more than that but when we come to Ethereum it's a very powerful even programs runs top on a blockchain.
 
 <p align="center">
         <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/1.png?raw=true"/>
