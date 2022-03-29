@@ -12,11 +12,11 @@ Actually, I was working on this project then I did research and made many projec
 * ### [What is Ethereum ?](#)
 
 
-#1. Who is the founder of Ethereum ?
-```renderscript
+# 1. Who is the founder of Ethereum ?
+```text
 Vitalik Buterin
 ```
-#2. Why did Vitalik created Ethereum? ?
-```renderscript
+# 2. Why did Vitalik created Ethereum? ?
+```text
 He wanted to create a new and improved version of Bitcoin that allowed for more scalability and applications with an ambitious vision to radically re-architect the web
 ```
