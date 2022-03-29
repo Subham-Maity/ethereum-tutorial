@@ -9,16 +9,20 @@ Actually, I was working on this project then I did research and made many projec
 ## Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
 
 ## Chapter List
+* [**Basic**](#basic)
+
 [**1. Who is the founder of Ethereum ?**](#1-who-is-the-founder-of-ethereum-)
+
 [**2. Why did Vitalik created Ethereum? ?**](#2-why-did-vitalik-created-ethereum-)
 
 
+# Basic 
 
-# 1. Who is the founder of Ethereum ?
+## 1. Who is the founder of Ethereum ?
 ```text
 Vitalik Buterin
 ```
-# 2. Why did Vitalik created Ethereum? ?
+## 2. Why did Vitalik created Ethereum? ?
 ```text
 He wanted to create a new and improved version of Bitcoin that allowed for more scalability and applications with an ambitious vision to radically re-architect the web
 ```
