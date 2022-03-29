@@ -85,7 +85,7 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 - [ ] 3. Distributed immutable ledger
 
 2. What is Ethereum ?
-- [ ] 1. Ethereum is a decentralized, open-source blockchain with smart contract functionality.
+- [X] 1. Ethereum is a decentralized, open-source blockchain with smart contract functionality.
 - [ ] 2. Ethereum is a decentralized, private blockchain with smart contract functionality.
 - [ ] 3. Ethereum is a centralized, open-source blockchain with smart contract functionality.
 - [ ] 4. Ethereum is a decentralized, open-source blockchain with no smart contract functionality.
