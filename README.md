@@ -42,7 +42,7 @@ Actually, I was working on this project then I did research and made many projec
 [**Basic QuiZ**](#basic-quiz-2-answer-below)
 
 *******
-* [**Smart Contract**](#ethereum-accounts)
+* [**Smart Contract**](#smart-contract)
 
 [**1. Why is it called smart contract?**](#1-why-is-it-called-smart-contract)
 
