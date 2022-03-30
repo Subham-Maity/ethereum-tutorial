@@ -44,16 +44,7 @@ Actually, I was working on this project then I did research and made many projec
 *******
 * [**Smart Contract**](#ethereum-accounts)
 
-[**1. Why we need Ethereum Acc ?**](#1-why-we-need-ethereum-acc-)
-
-[**2. How we create EOA ?**](#2-how-we-create-eoa-)
-
-[**3. What is CA ?**](#3-what-is-ca-)
-
-[**4. EOA vs CA**](#5-eoa-vs-ca)
-
-
-[**Basic QuiZ**](#basic-quiz-2-answer-below)
+[**Basic QuiZ**](#basic-quiz-3-answer-below)
 
 # Basic 
 
