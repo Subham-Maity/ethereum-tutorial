@@ -41,6 +41,19 @@ Actually, I was working on this project then I did research and made many projec
 
 [**Basic QuiZ**](#basic-quiz-2-answer-below)
 
+*******
+* [**Smart Contract**](#ethereum-accounts)
+
+[**1. Why we need Ethereum Acc ?**](#1-why-we-need-ethereum-acc-)
+
+[**2. How we create EOA ?**](#2-how-we-create-eoa-)
+
+[**3. What is CA ?**](#3-what-is-ca-)
+
+[**4. EOA vs CA**](#5-eoa-vs-ca)
+
+
+[**Basic QuiZ**](#basic-quiz-2-answer-below)
 
 # Basic 
 
@@ -210,4 +223,26 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 ```
 3. A "smart contract" is simply a program that runs on the Ethereum blockchain.
 ```
+# Smart Contract
+
+## 1. Why is it called smart contract?
+
+### 1. A set of promises(agreement), specified in digital form, including protocols within which the parties perform on these promises
+
+### 2. It is just a program
+
+### 3. A "smart contract" is simply a program that runs on the Ethereum blockchain. It's a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain.
+
+
+
+#### Smart contracts are a type of Ethereum account. This means they have a balance and they can send transactions over the network. However they're not controlled by a user, instead they are deployed to the network and run as programmed. User accounts can then interact with a smart contract by submitting transactions that execute a function defined on the smart contract. Smart contracts can define rules, like a regular contract, and automatically enforce them via the code. Smart contracts cannot be deleted by default, and interactions with them are irreversible
+
+
+<p align="center">
+        <img src="https://miro.medium.com/max/1400/1*RwtDw6TsUl4I90Tas7v5fg.gif"/>
+        </p>
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/13.png?raw=true"/>
+        </p>
 
