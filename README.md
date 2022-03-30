@@ -246,3 +246,6 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
         <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/13.png?raw=true"/>
         </p>
 
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/14.png?raw=true"/>
+        </p>
