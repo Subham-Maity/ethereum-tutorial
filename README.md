@@ -9,7 +9,9 @@ Actually, I was working on this project then I did research and made many projec
 ## Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
 
 ## Chapter List
+*******
 * [**Basic**](#basic)
+
 
 [**1. Who is the founder of Ethereum ?**](#1-who-is-the-founder-of-ethereum-)
 
@@ -23,6 +25,23 @@ Actually, I was working on this project then I did research and made many projec
 [**5. Crypto Currency Treading Website and Understanding**](#5-crypto-currency-treading-website-and-understanding)
      
  
+[**Basic QuiZ**](#basic-quiz-answer-below)
+
+*******
+* [**Ethereum Accounts**](#basic)
+
+[**1. Why we need Ethereum Acc ?**](#1-who-is-the-founder-of-ethereum-)
+
+[**2. Why did Vitalik created Ethereum?**](#2-why-did-vitalik-created-ethereum-)
+
+[**3. Bitcoin Vs Ethereum ?**](#3-bitcoin-vs-ethereum-)
+
+[**4. Technology vs Protocol/Coin vs Token**](#4-technology-vs-protocolcoin-vs-token)
+
+
+[**5. Crypto Currency Treading Website and Understanding**](#5-crypto-currency-treading-website-and-understanding)
+
+
 [**Basic QuiZ**](#basic-quiz-answer-below)
 
 
@@ -97,8 +116,37 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 
 
 
+# Ethereum Accounts
+
+## 1. Why we need Ethereum Acc ?
+
+### 1. If we want to transact ether or receive ether then we need an account that is ethereum account like bank account. 
+
+### 2. There are 2 types of ethereum account one is externally owned account(EOA) and second is contract account (CA)
 
 
+
+| Type 1                        | Type 2                |
+|-------------------------------|-----------------------|
+| Externally Owned Account(EOA) | Contract Account (CA) |
+
+
+## 2. How we create EOA ?
+
+* ### Whenever we create a wallet we can create EOA.It can be a Metamask Wallet,My Ether Wallet or Any Wallet.
+* ### Also, we can see our ether balance in that wallet 
+
+
+* #### What Is Private Key ?
+* #### The private key grants complete ownership of and access to any funds kept on your ethereum address, including any ETH or ERC20 tokens that you might have.
+
+
+## 3. What is Contract Acc ?
+
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/7.png?raw=true"/>
+        </p>
  
 
 
