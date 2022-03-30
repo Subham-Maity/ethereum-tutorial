@@ -194,9 +194,11 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 | Holds ETH balance                 | Holds ETH balance.                  |
 
 
-* **Explain** 
+* **Explain Little** 
 
-  *
+  * gas- When we created contract account we need a certain amount of cash (fees)   
+  * Both needs unique address 
+  * Both can hold ethereum balance 
 
 
 
