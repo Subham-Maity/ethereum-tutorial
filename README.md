@@ -195,7 +195,8 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 
 
 * **Explain** 
-  * 
+
+  *
 
 
 
