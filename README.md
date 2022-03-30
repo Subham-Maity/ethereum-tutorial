@@ -155,6 +155,48 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
         </p>
 
 
+## 4. Metamask Wallet Looks and Explore :
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/9.png?raw=true"/>
+        </p>
+
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/10.png?raw=true"/>
+        </p>
+
+#### This is our Address.What is ethereum address you can access your ethereum account.
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/11.png?raw=true"/>
+        </p>
+
+#### This is our contract account address.We will discuss this later in this article 
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/12.png?raw=true"/>
+        </p>
+
+
+
+## 5. EOA vs CA
+
+
+
+| Type 1                            | Type 2                              |
+|-----------------------------------|-------------------------------------|
+| **Externally Owned Account(EOA)** | **Contract Account (CA)**           |
+| Private key is needed             | No private or public key is needed. |
+| Controlled by humans              | Controlled by code.                 |
+| No Gas is associated              | Gas is associated.                  |
+| Has a unique address              | Has a unique address.               |
+| Holds ETH balance                 | Holds ETH balance.                  |
+
+
+* **Explain** 
+  * 
+
 
 
 
