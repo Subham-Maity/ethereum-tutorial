@@ -230,7 +230,7 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 
 #### Smart contracts are a type of Ethereum account. This means they have a balance and they can send transactions over the network. However they're not controlled by a user, instead they are deployed to the network and run as programmed. User accounts can then interact with a smart contract by submitting transactions that execute a function defined on the smart contract. Smart contracts can define rules, like a regular contract, and automatically enforce them via the code. Smart contracts cannot be deleted by default, and interactions with them are irreversible
 
-#[Reference Video](https://youtu.be/pyaIppMhuic) 
+# [Reference Video](https://youtu.be/pyaIppMhuic) 
 
 <p align="center">
         <img src="https://miro.medium.com/max/1400/1*RwtDw6TsUl4I90Tas7v5fg.gif"/>
