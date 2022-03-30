@@ -141,13 +141,20 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 * #### The private key grants complete ownership of and access to any funds kept on your ethereum address, including any ETH or ERC20 tokens that you might have.
 
 
-## 3. What is Contract Acc ?
-
-
 <p align="center">
         <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/7.png?raw=true"/>
         </p>
- 
+
+
+## 3. What is CA ?
+
+### With CA we can send ether receive ether and also interact with smart contract. 
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/8.png?raw=true"/>
+        </p>
+
+
 
 
 
