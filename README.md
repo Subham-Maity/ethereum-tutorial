@@ -56,6 +56,8 @@ Actually, I was working on this project then I did research and made many projec
 
 [**3. Why should you build a dApp over a regular app?**](#3-why-should-you-build-a-dapp-over-a-regular-app)
 
+[**Basic QuiZ**](#basic-quiz-3-answer-below)
+
 # Basic 
 
 ## 1. Who is the founder of Ethereum ?
