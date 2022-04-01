@@ -56,7 +56,7 @@ Actually, I was working on this project then I did research and made many projec
 
 [**3. Why should you build a dApp over a regular app?**](#3-why-should-you-build-a-dapp-over-a-regular-app)
 
-[**Basic QuiZ**](#basic-quiz-3-answer-below)
+[**Basic QuiZ**](#basic-quiz-4-answer-below)
 
 # Basic 
 
@@ -368,7 +368,7 @@ deployed and used without requiring real-world identity verification.
 ## 3. Decentralise Website 
 ### This is D.tube like Youtube [Click Here](https://d.tube/#!/v/thetuccigucci07/c87uq3rqt2p)
 
-## Basic QuiZ 3 (**Answer below**)
+## Basic QuiZ 4 (**Answer below**)
 1.What does a decentralized application consists of ?
 - [ ] 1. Smart contract and Frontend user interface.
 - [ ] 2. Only Frontend user interface
