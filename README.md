@@ -285,6 +285,18 @@ the user has to pay a certain amount(in terms of the cryptocurrency) to the deve
  Unlike centralized apps, the backend code of the decentralized application runs on 
  the P2P network instead of the centralized servers. 
  ```
+###  How to Build a decentralized app?
+ ```javascript
+The development process of dApp is different than the centralized ones. Here is a step-by-step guide on how to build a decentralized application.
+
+1.List the app requirements and check them for their feasibility.
+2.Install the Node Package Manager.
+3.Choose your tech stack, including database, frameworks, hosting, frontend, its contracts, and programing language, APIs, and Development server. You can use Ethereum for the same.
+4.Launch an Initial Coin Offering to raise the funds that you will need to develop your project.
+5.Build your dApp using the platforms like truffle.
+6.Test your dApp and smart contract for its functionality.
+7.Once tested successfully, you can launch the dApp
+ ```
 
 ## 2.  What are Centralized Applications?
 
@@ -303,4 +315,26 @@ With the centralized approach, the user downloads the app from the app store and
 the app by sending the request/information to the centralized server or cluster of servers. 
 Upon receiving the request, the server processes it and sends out the response accordingly.
  ```
+###  How to Build a Centralized App?
+ ```javascript
+If you want to develop a centralized app for your business, the following steps can help you with the same.
 
+1.Select Your Launch Platform that is Android or iOS.
+2.List down the features that you want to include in your application and create a wireframe accordingly.
+3.Design and create a prototype of your application to test it for basic functionalities.
+4.Once approved, build your application with the help of the app builder.
+5.Test the application for its functionality.
+6.Now your app is ready to launch.
+ ```
+## 2. Why should you build a dApp over a regular app?
+
+
+ ```javascript
+1.Zero downtime is guaranteed.
+2.More Secure as the malicious actors cannot launch attacks like 
+denial-of-service on the individual DApps.
+3.Offers absolute privacy as a dApp can be 
+deployed and used without requiring real-world identity verification.
+4.Gives you greater control over the application.
+5.Provides complete data integrity.
+ ```
