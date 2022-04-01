@@ -255,3 +255,52 @@ He wanted to create a new and improved version of Bitcoin that allowed for more 
 ```
 4. Solidity
 ```
+
+# Decentralized Application(Dapp)
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/giphy.gif?raw=true"/>
+        </p>
+
+
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/15.png?raw=true"/>
+        </p>
+
+## 1. What are the decentralized applications ?
+
+ ```javascript
+ DApps or decentralized apps are just the opposite of centralized apps. 
+ The decentralized apps run on the blockchain or Peer to Peer (P2P) 
+ networks of computers rather than central servers
+ ```
+
+### How does decentralized app work?
+
+ ```javascript
+To use the decentralized apps, instead of downloading the application, 
+the user has to pay a certain amount(in terms of the cryptocurrency) to the developer.
+ The user can also download the source code of the application under a 
+ “smart contract”- a collection of code, logic, and data to run the application. 
+ Unlike centralized apps, the backend code of the decentralized application runs on 
+ the P2P network instead of the centralized servers. 
+ ```
+
+##2.  What are Centralized Applications?
+
+ ```javascript
+ Applications that are controlled by a single individual or business are known as centralized apps. 
+ In these applications, information always flows through a single server or cluster of servers. 
+ The dedicated server contains all the required logic to execute an application. 
+ This enables it to execute the desired action as well.Since the app is controlled by a centralized server, 
+ the chance of it crashing increases. When the server goes down or crashes, 
+ the app stops working across all user devices until the problem is resolved.
+
+ ```
+###  How Centralized apps work?
+ ```javascript
+With the centralized approach, the user downloads the app from the app store and uses 
+the app by sending the request/information to the centralized server or cluster of servers. 
+Upon receiving the request, the server processes it and sends out the response accordingly.
+ ```
+ss
