@@ -297,6 +297,9 @@ The development process of dApp is different than the centralized ones. Here is 
 6.Test your dApp and smart contract for its functionality.
 7.Once tested successfully, you can launch the dApp
  ```
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/16.png?raw=true"/>
+        </p>
 
 ## 2.  What are Centralized Applications?
 
@@ -326,6 +329,7 @@ If you want to develop a centralized app for your business, the following steps 
 5.Test the application for its functionality.
 6.Now your app is ready to launch.
  ```
+
 ## 2. Why should you build a dApp over a regular app?
 
 
@@ -338,3 +342,31 @@ deployed and used without requiring real-world identity verification.
 4.Gives you greater control over the application.
 5.Provides complete data integrity.
  ```
+
+| Centralized Apps | Decentralized Apps |
+|------------------|--------------------|
+| Not Trustworthy  | Trustworthy        |
+| Censorship       | No Censorship      |
+| You pay          | They pay           |
+| Can go down      | Cannot go down     |
+
+  
+  
+
+
+
+## 3. Decentralise Website 
+### This is D.tube like Youtube [Click Here](https://d.tube/#!/v/thetuccigucci07/c87uq3rqt2p)
+
+## Basic QuiZ 3 (**Answer below**)
+1.What does a decentralized application consists of ?
+- [ ] 1. Smart contract and Frontend user interface.
+- [ ] 2. Only Frontend user interface
+- [ ] 3. Only Smart contract.
+
+
+
+**Answer**
+```
+1. Smart contract and Frontend user interface.
+```
