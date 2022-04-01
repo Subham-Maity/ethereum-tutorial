@@ -47,6 +47,14 @@ Actually, I was working on this project then I did research and made many projec
 [**1. Why is it called smart contract?**](#1-why-is-it-called-smart-contract)
 
 [**Basic QuiZ**](#basic-quiz-3-answer-below)
+*******
+* [**Decentralized Application(Dapp)**](#decentralized-applicationdapp)
+
+[**1. What are the decentralized applications ?**](#1-what-are-the-decentralized-applications-)
+
+[**2. What are Centralized Applications?**](#2--what-are-centralized-applications)
+
+[**3. Why should you build a dApp over a regular app?**](#3-why-should-you-build-a-dapp-over-a-regular-app)
 
 # Basic 
 
@@ -330,7 +338,7 @@ If you want to develop a centralized app for your business, the following steps 
 6.Now your app is ready to launch.
  ```
 
-## 2. Why should you build a dApp over a regular app?
+## 3. Why should you build a dApp over a regular app?
 
 
  ```javascript
