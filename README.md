@@ -286,7 +286,7 @@ the user has to pay a certain amount(in terms of the cryptocurrency) to the deve
  the P2P network instead of the centralized servers. 
  ```
 
-##2.  What are Centralized Applications?
+## 2.  What are Centralized Applications?
 
  ```javascript
  Applications that are controlled by a single individual or business are known as centralized apps. 
@@ -303,4 +303,4 @@ With the centralized approach, the user downloads the app from the app store and
 the app by sending the request/information to the centralized server or cluster of servers. 
 Upon receiving the request, the server processes it and sends out the response accordingly.
  ```
-ss
+
