@@ -58,12 +58,17 @@ Actually, I was working on this project then I did research and made many projec
 
 [**Basic QuiZ**](#basic-quiz-4-answer-below)
 *******
-* [**Ethereum Virtual Machine(EVM) & Gas**](#ethereum-virtual-machine)
-*******
-* [**EVM Gas Costs**](#evm-gas-costs)
+
+* [**EVM**](#ethereum-virtual-machine)
+
+[**1.Ethereum Virtual Machine(EVM) & Gas**](#ethereum-virtual-machine)
+
+[**2.EVM Gas Costs**](#evm-gas-costs)
+
+[**Basic QuiZ**](#basic-quiz-5-answer-below)
 ********
 
-[**Basic QuiZ**](#basic-quiz-4-answer-below)
+
 
 # Basic 
 
@@ -475,3 +480,19 @@ all Ethereum accounts and smart contracts live.
 |0xfe        |INVALID     |NA                                                      |       |NA                |NA            |Designated invalid instruction.                                                                                           |                                                                                                                                                               |
 |0xff        |SELFDESTRUCT|5000 + ((create_new_account) ? 25000 : 0)               |       |1                 |0             |Halt execution and register account for later deletion                                                                    |5000 for the operation plus 25000 if a new account is also created. A refund of 24000 gas is also added to the refund counter for self-destructing the account.|
 
+## Basic QuiZ 5 (**Answer below**)
+1.How much gas will be needed to evaluate this expression 5 * 2 + 4 -3 ? (Take the help of ethereum opcode gas cost list.)
+- [ ] 1. 12
+- [ ] 2. 11
+- [ ] 3. 10
+- [ ] 4. 9
+
+
+**Answer**
+```
+2. Check the list for Multiplication we need 5 gas then 
+for addition we need 3 gas
+and for subtraction we need 3 gas 
+
+so we need 5+3+3 =11 gas
+```
