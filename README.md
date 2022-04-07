@@ -66,6 +66,8 @@ Actually, I was working on this project then I did research and made many projec
 [**2.EVM Gas Costs**](#evm-gas-costs)
 
 [**Basic QuiZ**](#basic-quiz-5-answer-below)
+
+[**3.Transaction**](#evm-gas-costs)
 ********
 
 
@@ -406,6 +408,21 @@ all Ethereum accounts and smart contracts live.
 
 
 # EVM-gas-costs
+```javascript 
+It is the amount the sender wants to pay per unit of gas to get the
+transaction mined. gasPrice is set by the sender.
+```
+##Unit
+**Gas Price is denoted in gwei.(1 gwei =10^-9 ETH)**
+
+1. you can set the gas price what you want it is set by the user  
+2. But you need to set the gas price as much higher you can the higher the gasPrice the faster the transaction will be mined.It is the maximum gas that the transaction can consume.
+3. You may set 10 gwei to send 10 ether to a friend, but if that 10 gwei is less in that particular scenario, your friend is unlikely to receive that ether.
+4.
+   
+
+
+
 
 |Value       |Mnemonic    |Gas Used                                                |Subset |Removed from stack|Added to stack|Notes                                                                                                                     |Formula Notes                                                                                                                                                  |
 |------------|------------|--------------------------------------------------------|-------|------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -480,6 +497,10 @@ all Ethereum accounts and smart contracts live.
 |0xfe        |INVALID     |NA                                                      |       |NA                |NA            |Designated invalid instruction.                                                                                           |                                                                                                                                                               |
 |0xff        |SELFDESTRUCT|5000 + ((create_new_account) ? 25000 : 0)               |       |1                 |0             |Halt execution and register account for later deletion                                                                    |5000 for the operation plus 25000 if a new account is also created. A refund of 24000 gas is also added to the refund counter for self-destructing the account.|
 
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/gas%20.png?raw=true"/>
+        </p>
+
 ## Basic QuiZ 5 (**Answer below**)
 1.How much gas will be needed to evaluate this expression 5 * 2 + 4 -3 ? (Take the help of ethereum opcode gas cost list.)
 - [ ] 1. 12
@@ -496,4 +517,8 @@ and for subtraction we need 3 gas
 
 so we need 5+3+3 =11 gas
 ```
+# Transaction 
 
+<p align="center">
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/gas%20.png?raw=true"/>
+        </p>
