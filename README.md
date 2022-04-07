@@ -70,8 +70,8 @@ Actually, I was working on this project then I did research and made many projec
 [**3.Transaction**](#3transaction)
 ********
 ## Continue This Book with
-# BlockChain A-Z Part 3 
-* # [**Solidity master**](#solidity-master)
+### BlockChain A-Z Part 3 
+* [**Solidity master**](#solidity-master)
 
 
 *******
