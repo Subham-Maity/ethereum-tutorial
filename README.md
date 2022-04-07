@@ -69,8 +69,12 @@ Actually, I was working on this project then I did research and made many projec
 
 [**3.Transaction**](#3transaction)
 ********
+## Continue This Book with
+# BlockChain A-Z Part 3 
+* # [**Solidity master**](#solidity-master)
 
 
+*******
 
 # Basic 
 
@@ -523,3 +527,8 @@ so we need 5+3+3 =11 gas
 <p align="center">
         <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/trans%20.png?raw=true"/>
         </p>
+
+
+# Solidity Master
+
+## [Solidity Master Tutorial](https://github.com/Subham-Maity/solidity-tutorial)
