@@ -520,5 +520,5 @@ so we need 5+3+3 =11 gas
 # Transaction 
 
 <p align="center">
-        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/gas%20.png?raw=true"/>
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/trans.png?raw=true"/>
         </p>
