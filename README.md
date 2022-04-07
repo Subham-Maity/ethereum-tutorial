@@ -67,7 +67,7 @@ Actually, I was working on this project then I did research and made many projec
 
 [**Basic QuiZ**](#basic-quiz-5-answer-below)
 
-[**3.Transaction**](#evm-gas-costs)
+[**3.Transaction**](#3transaction)
 ********
 
 
@@ -517,8 +517,9 @@ and for subtraction we need 3 gas
 
 so we need 5+3+3 =11 gas
 ```
-# Transaction 
+# 3.Transaction 
+"Gas limit" refers to the maximum amount of gas (or energy) that you're willing to spend on a particular transaction. A higher gas limit means that you must do more work to execute a transaction using ETH or a smart contract.
 
 <p align="center">
-        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/trans.png?raw=true"/>
+        <img src="https://github.com/Subham-Maity/ethereum-tutorial/blob/master/Image%20(ignore)/trans%20.png?raw=true"/>
         </p>
